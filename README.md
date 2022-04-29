@@ -14,4 +14,7 @@
 
 
 <h2 align="center">Funcionamento Geral</h2>
-<p align="center"><a href="" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1gHgQr_d2kF_QZTW_ZN6lFJ6Zim5DgNFC" width="300"></a></p>
+<p align="center">
+  <a href="" target="_blank"><img src="https://drive.google.com/uc?export=view&id=1gHgQr_d2kF_QZTW_ZN6lFJ6Zim5DgNFC" width="300">
+  </a>
+</p>
