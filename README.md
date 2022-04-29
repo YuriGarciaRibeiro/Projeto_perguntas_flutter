@@ -7,7 +7,7 @@
 <p align="center">
   <a>
     <img src="https://drive.google.com/uc?export=view&id=1g6JHe5MndGYr6KaW5QH9fvfGn1qKF4l9" width="300"> 
-    <img src="https://drive.google.com/uc?export=1Ux0b8bBVoCwM_lw8S4Ho9HudDS199ycB" width="300"> 
+    <img src="https://drive.google.com/uc?export=view&id=1Ux0b8bBVoCwM_lw8S4Ho9HudDS199ycB" width="300"> 
     <img src="https://drive.google.com/uc?export=view&id=1G79zmR0DHWUhl4IyeOHfSvJ357kDTRLv" width="300"> 
   </a>
 </p>
